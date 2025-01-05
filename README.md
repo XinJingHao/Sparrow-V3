@@ -42,7 +42,7 @@ python main.py
 ```
 
 ## Train your own model
-Please refer to ColorDynamic
+Please refer to [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 
 <br/>
 
