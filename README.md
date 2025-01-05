@@ -46,10 +46,13 @@ Please refer to [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 
 <br/>
 
-## Main differences from Sparrow-V2
-- Multiple robots are supported
+## Documentations
+- Please refer to this [repo](https://github.com/XinJingHao/Sparrow-V2).
 
 <br/>
+
+## Main differences from Sparrow-V2
+- Multiple robots are supported
 
 <br>
 
