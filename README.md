@@ -47,24 +47,41 @@ Please refer to [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 <br/>
 
 ## Main differences from Sparrow-V2
-- Multiple robot simulation supported
+- Multiple robots are supported
 
 <br/>
 
-## Citing this Project
+<br>
+
+## The Sparrow families
+- [Sparrow-V1](https://github.com/XinJingHao/Sparrow-V1): Single Robot, Static environments
+- [Sparrow-V2](https://github.com/XinJingHao/Sparrow-V2): Single Robot, Dynamic/Static environments
+- [Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3): Multiple/Single Robot, Dynamic/Static environments
+
+
+<br>
+
+## Citing the Project
 
 To cite this repository in publications:
 
 ```bibtex
-@article{OPCD2025,
-title = {OkayPlan and ColorDynamic},
-journal = {XXX},
-volume = {XXX},
-pages = {XXX},
-year = {2025},
-issn = {XXXX-XXXX},
-author = {Jinghao Xin},
+@article{ColorDynamic2025,
+  title={XXXX},
+  author={Jinghao Xin},
+  journal={XXX},
+  year={2025}
 }
 ```
+
+
+
+## Writing in the end
+
+The name "Sparrow" actually comes from an old saying *“麻雀虽小，五脏俱全.”* 
+
+Hope you enjoy using Sparrow! 
+
+Additionally, we have made detailed comments on the source code (`Sparrow_V2.py`) so that you can modify Sparrow to fit your own problem. But only for non-commercial purposes, and all rights are reserved by [Jinghao Xin](https://github.com/XinJingHao).
 
 
