@@ -85,6 +85,6 @@ The name "Sparrow" actually comes from an old saying *“麻雀虽小，五脏�
 
 Hope you enjoy using Sparrow! 
 
-Additionally, we have made detailed comments on the source code (`Sparrow_V2.py`) so that you can modify Sparrow to fit your own problem. But only for non-commercial purposes, and all rights are reserved by [Jinghao Xin](https://github.com/XinJingHao).
+Additionally, we have made detailed comments on the source code (`Sparrow_V3.py`) so that you can modify Sparrow to fit your own problem. But only for non-commercial purposes, and all rights are reserved by [Jinghao Xin](https://github.com/XinJingHao).
 
 
