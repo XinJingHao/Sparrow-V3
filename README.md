@@ -69,10 +69,10 @@ Please refer to [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 To cite this repository in publications:
 
 ```bibtex
-@article{ColorDynamic2025,
-  title={XXXX},
-  author={Jinghao Xin},
-  journal={XXX},
+@article{ColorDynamic,
+  title={ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments},
+  author={Jinghao Xin, Zhichao Liang, Zihuan Zhang, Peng Wang, and Ning Li},
+  journal={arXiv preprint arXiv:2502.19892},
   year={2025}
 }
 ```
